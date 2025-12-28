@@ -1,0 +1,20 @@
+table {
+  text-align: center;
+width: 20%;
+size: 10cm;
+background-color: antiquewhite;
+}
+tr {
+
+
+  color: blue;
+}
+th {
+  
+
+text-align: center;
+color: brown;
+}
+body{
+  background-color:rgb(176, 161, 189);
+}
